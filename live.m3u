@@ -31,12 +31,6 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/14.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/11.mpegts
 #EXTINF:-1    group-title="Streams",OWN
 http://free-premium-iptv.ddns.net:9090/load/freestreams/15.mpegts
-#EXTINF:-1    group-title="Streams",BBC AMERICA
-http://free-premium-iptv.ddns.net:9090/load/freestreams/16.mpegts
-#EXTINF:-1    group-title="Streams",CITY TV
-http://free-premium-iptv.ddns.net:9090/load/freestreams/17.mpegts
-#EXTINF:-1    group-title="Streams",CTV
-http://free-premium-iptv.ddns.net:9090/load/freestreams/18.mpegts
 #EXTINF:-1    group-title="Streams",Comedy Central
 http://free-premium-iptv.ddns.net:9090/load/freestreams/19.mpegts
 #EXTINF:-1    group-title="Streams",Lifetime
@@ -85,8 +79,6 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/40.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/41.mpegts
 #EXTINF:-1    group-title="Streams",Cinemax Moremax
 http://free-premium-iptv.ddns.net:9090/load/freestreams/42.mpegts
-#EXTINF:-1    group-title="Streams",Space
-http://free-premium-iptv.ddns.net:9090/load/freestreams/43.mpegts
 #EXTINF:-1    group-title="Streams",The Movie Channel
 http://free-premium-iptv.ddns.net:9090/load/freestreams/44.mpegts
 #EXTINF:-1    group-title="Streams",ESPN
@@ -109,36 +101,8 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/52.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/53.mpegts
 #EXTINF:-1    group-title="Streams",NFL Network
 http://free-premium-iptv.ddns.net:9090/load/freestreams/54.mpegts
-#EXTINF:-1    group-title="Streams",NFL Now
-http://free-premium-iptv.ddns.net:9090/load/freestreams/55.mpegts
-#EXTINF:-1    group-title="Streams",NHL
-http://free-premium-iptv.ddns.net:9090/load/freestreams/56.mpegts
-#EXTINF:-1    group-title="Streams",WWE Network
-http://free-premium-iptv.ddns.net:9090/load/freestreams/57.mpegts
-#EXTINF:-1    group-title="Streams",TSN1
-http://free-premium-iptv.ddns.net:9090/load/freestreams/58.mpegts
-#EXTINF:-1    group-title="Streams",TSN 2
-http://free-premium-iptv.ddns.net:9090/load/freestreams/59.mpegts
-#EXTINF:-1    group-title="Streams",TSN 3
-http://free-premium-iptv.ddns.net:9090/load/freestreams/60.mpegts
-#EXTINF:-1    group-title="Streams",TSN4
-http://free-premium-iptv.ddns.net:9090/load/freestreams/61.mpegts
-#EXTINF:-1    group-title="Streams",TSN5
-http://free-premium-iptv.ddns.net:9090/load/freestreams/62.mpegts
-#EXTINF:-1    group-title="Streams",SPORTSNET ONE
-http://free-premium-iptv.ddns.net:9090/load/freestreams/63.mpegts
-#EXTINF:-1    group-title="Streams",SPORTSNET ONTARIO
-http://free-premium-iptv.ddns.net:9090/load/freestreams/64.mpegts
-#EXTINF:-1    group-title="Streams",SPORTS WORLD
-http://free-premium-iptv.ddns.net:9090/load/freestreams/65.mpegts
-#EXTINF:-1    group-title="Streams",SPORTSNET 360
-http://free-premium-iptv.ddns.net:9090/load/freestreams/66.mpegts
-#EXTINF:-1    group-title="Streams",SPORTSNET PACIFIC
-http://free-premium-iptv.ddns.net:9090/load/freestreams/67.mpegts
 #EXTINF:-1    group-title="Streams",CNN
 http://free-premium-iptv.ddns.net:9090/load/freestreams/68.mpegts
-#EXTINF:-1    group-title="Streams",CBC News
-http://free-premium-iptv.ddns.net:9090/load/freestreams/69.mpegts
 #EXTINF:-1    group-title="Streams",CNBC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/70.mpegts
 #EXTINF:-1    group-title="Streams",MSNBC
@@ -161,10 +125,6 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/78.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/79.mpegts
 #EXTINF:-1    group-title="Streams",Investigation Discovery
 http://free-premium-iptv.ddns.net:9090/load/freestreams/80.mpegts
-#EXTINF:-1    group-title="Streams",Velocity
-http://free-premium-iptv.ddns.net:9090/load/freestreams/81.mpegts
-#EXTINF:-1    group-title="Streams",Love Nature
-http://free-premium-iptv.ddns.net:9090/load/freestreams/82.mpegts
 #EXTINF:-1    group-title="Streams",Food Network
 http://free-premium-iptv.ddns.net:9090/load/freestreams/83.mpegts
 #EXTINF:-1    group-title="Streams",HGTV
